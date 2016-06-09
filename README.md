@@ -14,7 +14,7 @@ If you have time you may also add unit and/or UI tests, and/or cache requests.
 
 ### Data
 
-The data is available at https://raw.githubusercontent.com/Saltside/mobile-coding-exercise/master/items.json
+The data is available at https://raw.githubusercontent.com/danieloskarsson/mobile-coding-exercise/master/items.json
 
 ### Guidelines
 
